@@ -38,8 +38,10 @@ Carga horária: 40 horas semanais
 # Instruções
 
 1) Desenvolva uma aplicação (simples) de agendamento de reuniões, como as exemplificadas neste site: https://blog.hubspot.com/marketing/meeting-scheduler-tools-more-productive. 
+
   1.1) Utilizar Laravel (backend) e Angular (frontend). 
+  
   1.2) Fique a vontade para persistir como quiser. Contudo, se utilizar Postgres e as Migrations do Laravel marcará  mais pontos.
 2) Publique este projeto no github e 
-3) nos encaminhei por o endereço do seu repositório e seu currículo  para os emails: thiagozs@funceme.br e robson@funceme.br.
+3) encaminhe o endereço do seu repositório e seu currículo para os emails: thiagozs@funceme.br e robson@funceme.br.
 
