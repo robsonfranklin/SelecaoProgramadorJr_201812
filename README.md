@@ -28,7 +28,8 @@ Carga horária: 40 horas semanais
 # Requisitos Desejáveis
 
 * Bons conhecimentos em orientação a objetos e padrões de projeto.
-* HTML5 
+* HTML5
+* CSS3 
 * Javascript, no uso de jQuery e ter curiosidade sobre as novidades do mercado de front-end.
 * TypeScript.
 * Conhecimentos em bancos de dados relacionais, principalmente PostgreSQL.
@@ -42,6 +43,10 @@ Carga horária: 40 horas semanais
   1.1) Utilizar Laravel (backend) e Angular (frontend). 
   
   1.2) Fique a vontade para persistir como quiser. Contudo, se utilizar Postgres e as Migrations do Laravel marcará  mais pontos.
+  
 2) Publique este projeto no github e 
+
 3) encaminhe o endereço do seu repositório e seu currículo para os emails: thiagozs@funceme.br e robson@funceme.br.
 
+
+ps: serão avaliados itens com:  a organização, os comentários e o uso de boas práticas ao utilizar os requisitos básicos e os requisitos desejáveis. 
